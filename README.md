@@ -133,7 +133,7 @@ smart-public-safety-analytics/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/smart-public-safety-analytics.git
+git clone https://github.com/gujaratihacker/smart-public-safety-analytics.git
 cd smart-public-safety-analytics
 ```
 
