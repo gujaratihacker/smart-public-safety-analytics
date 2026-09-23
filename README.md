@@ -229,6 +229,3 @@ To respect temporal causality and prevent data leakage, time series are evaluate
 - Automated exogenous weather variables (temperature, precipitation) in the SARIMAX pipeline.
 
 ---
-
-## 📄 License
-This project is released under the **MIT License**.
